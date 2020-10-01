@@ -25,6 +25,7 @@ def welcome_assignment_answers(question):
     else:
         answer = "No"
     return(answer)
+
 # Complete all the questions.
 
 
